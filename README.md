@@ -15,10 +15,10 @@ The DTSAD has been implemented in the Visual Paradigm modelling tool to depict m
 ## Repository structure
 1. *Documentation Diagram Images* contains .pdf files for high quality rendering of DTSAD diagram. Thus, the internal structure of this folder recalls the DTSAD structure:
     * Architectural Views
-        01. Requirement View
-        02. Logical View
-        03. Development View
-        04. Process View
+        1. Requirement View
+        2. Logical View
+        3. Development View
+        4. Process View
     * Impact Analysis
 2. *Documentation Visual Paradigm* contains the .vpp file. The Visual Paradigm used version is 16.2
 3. *Rapid Review* contains the excel sheet with selected primary studies in the RR process and their analysis with respect to 4+1 Architectural view model* proposed by Krutchen [3].
