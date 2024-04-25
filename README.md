@@ -15,5 +15,7 @@ The DTSAD has been implemented in the Visual Paradigm modelling tool to depict m
 
 ### References
 [1] Bass, L., Clements, P., Kazman, R.: Software Architecture in Practice. SEI series in software engineering, Addison-Wesley, 3rd edn. (2012)
+
 [2] Clements, P., Bachmann, F., Bass, L., Garlan, D., Ivers, J., Little, R., Merson, P., Nord, R., Stafford, J.: Documenting Software Architectures: Views and Beyond. SEI Series in Software Engineering, Addison-Wesley (2010)
+
 [3] Kruchten, P.: The 4+1 view model of architecture. IEEE Software 12, 45–50 (11,1995)
